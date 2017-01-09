@@ -118,23 +118,7 @@ body{
 	top: 260px;
 	left: 0px;
 }
-#container1{
 
-}
-
-.col-md-2 img{
-	width: 170px;
-	height: 96px;
-}
-.col-md-2 h4{
-	font-family: "Comic Sans MS", sans-serif;
-	color: #666;
-	font-weight: 900;
-}
-.col-md-2 a{
-	color: #000;
-	font-weight: 900;
-}
 .rightspan{
 	position: relative;
 	top: 30px;
@@ -170,4 +154,37 @@ body{
 	float: left;
 }
 
+
+
+
+
+#first{
+  max-width: 100%;
+}
+
+.name{
+  font-family: Georgia,"Times New Roman",Times,serif;
+  font-style: italic;
+  color:#666;
+}
+.title {
+      font-family: "Helvetica Neue Custom","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.text { 
+  color:#666;
+
+}
+.col-md-2{
+   height: 350px;
+   border:1px;
+   width: 200px;
+}
+
+.span2{
+  display: block;
+  font-weight: bold;
+}
+.span1{
+  font-weight: bold;
+}
 
